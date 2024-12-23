@@ -1,0 +1,5 @@
+print ("hello world")
+x="I"
+y="Love"
+z="python"
+  print (x,y,z)
